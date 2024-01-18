@@ -1,4 +1,4 @@
-# Hi, I am StephenAbang
+# Hi, I am Stephen 
 An experienced Data Analyst and Data Engineer with a Degree in Chemical Engineer
 
 ## About Me:
