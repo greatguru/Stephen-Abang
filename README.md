@@ -12,8 +12,8 @@ Data Science
 Cloud Technology
 Skills:
 
-*Power BI
-SQL
+* Power BI
+- SQL
 Python
 Data Visualization
 Data Modeling
